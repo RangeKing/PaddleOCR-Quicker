@@ -24,13 +24,19 @@ An GUI for PaddleOCR whl based on [Quicker](https://getquicker.net/).</br>
 
 ### 2.2 无文本窗口模式
 
+<div align=center><img src="https://github.com/RangeKing/PaddleOCR-Quicker/blob/main/imgs/demo_noWindow.gif"></div>
+
 截图后不弹出文本编辑窗口，只弹出简单的消息提示。OCR识别的结果会自动复制到剪贴板。
 
 ### 2.3 文本窗口模式
 
+<div align=center><img src="https://github.com/RangeKing/PaddleOCR-Quicker/blob/main/imgs/demo_Window.gif"></div>
+
 截图后弹出文本编辑窗口，可以在文本编辑窗口中，用`段落处理`和`标点处理`功能进行简单的文字处理。OCR识别的结果不会自动复制到剪贴板。
 
 ### 2.4 设置选项
+
+<div align=center><img src="https://github.com/RangeKing/PaddleOCR-Quicker/blob/main/imgs/settings.png"></div>
 
 设置选项可以在PaddleOCR动作图标上单击右键呼出。主要有`文本窗口模式设置`、`识别设置`和`环境设置`三处。
 
